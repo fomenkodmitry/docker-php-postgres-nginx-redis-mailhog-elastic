@@ -1,0 +1,16 @@
+.docker/data/
+# файлы создаваемые редакторами
+.idea
+.vscode
+.env
+*.sublime-project
+*.sublime-workspace
+*.orig
+*.bak
+
+# файлы системы
+.DS_Store
+Thumbs.db
+
+# файлы настройки
+.env
